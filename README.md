@@ -2,8 +2,9 @@
 
 Just run:
 
+``` 
 npm i node-dependents
-
+```
 
 # How to use
 
