@@ -3,7 +3,7 @@
 Just run:
 
 ``` 
-npm i node-dependents
+npm i node-dependents -g
 ```
 
 # How to use
