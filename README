@@ -1,0 +1,13 @@
+# Install 
+
+Just run:
+```shell
+npm i node-dependents
+```
+
+# How to use
+
+```shell
+node-dependents <package name>
+```
+
