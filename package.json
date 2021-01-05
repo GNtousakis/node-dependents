@@ -1,0 +1,29 @@
+{
+  "name": "node-dependents",
+  "version": "1.0.0",
+  "description": "Get dependents list of an npm package ",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GNtousakis/node-dependents.git"
+  },
+  "keywords": [
+    "node",
+    "dependents",
+    "depents",
+    "list"
+  ],
+  "author": "Grigoris Ntousakis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GNtousakis/node-dependents/issues"
+  },
+  "homepage": "https://github.com/GNtousakis/node-dependents#readme",
+  "dependencies": {
+    "package-dependents": "^2.0.2",
+    "sleep": "^6.3.0"
+  }
+}
