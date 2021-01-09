@@ -23,6 +23,8 @@ function getDependents (name) {
   })
 }
 
+/* Add original name to set */
+nameSet.add(packageName);
 getDependents(packageName);
 
 process.on('exit', () => {
